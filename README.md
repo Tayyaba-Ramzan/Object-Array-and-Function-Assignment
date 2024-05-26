@@ -1,2 +1,2 @@
 # Object-Array-Function-Assignment
-This repository focuses on an Object Array and Function assignment, specifically tailored for TypeScript programming. It covers tasks related to manipulating object arrays and implementing functions such as pop and splice all within the TypeScript environment.
+𝘩𝘪𝘴 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵 𝘳𝘦𝘱𝘰𝘴𝘪𝘵𝘰𝘳𝘺 𝘤𝘦𝘯𝘵𝘦𝘳𝘴 𝘰𝘯 𝘖𝘣𝘫𝘦𝘤𝘵 𝘈𝘳𝘳𝘢𝘺 𝘢𝘯𝘥 𝘍𝘶𝘯𝘤𝘵𝘪𝘰𝘯 𝘵𝘢𝘴𝘬𝘴, 𝘤𝘰𝘷𝘦𝘳𝘪𝘯𝘨 𝘰𝘣𝘫𝘦𝘤𝘵 𝘢𝘳𝘳𝘢𝘺 𝘮𝘢𝘯𝘪𝘱𝘶𝘭𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘧𝘶𝘯𝘤𝘵𝘪𝘰𝘯 𝘪𝘮𝘱𝘭𝘦𝘮𝘦𝘯𝘵𝘢𝘵𝘪𝘰𝘯𝘴 𝘭𝘪𝘬𝘦 𝘱𝘰𝘱 𝘢𝘯𝘥 𝘴𝘱𝘭𝘪𝘤𝘦.
